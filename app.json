@@ -1,0 +1,22 @@
+{
+    "name": "JORDAN-JOELSTAR 🤖",
+    "description": "I am JORDAN-JOELSTAR  Whatsapp multifunctional bot built in NodeJs by Jordan-Joelstar to make experience better\n\t In case of Any Problem : https://wa.me/2349054039891",
+    "logo": "https://telegra.ph/file/3ba0c05638b4288559471.jpg ",
+    "repository": "https://github.com/jamesxtreme/JORDAN-JOELSTAR-paircode",
+    "keywords": ["whatsappbot", "Jordan Joelstar", "Jordan Joelstar bot", "JJ bot", "JJWhatsaooBot", "JordanJoelstarWaBot","jjMD","Jordan Joelstar Md Whatsapp Bot","multi device"],
+    "success_url": "/", 
+    "buildpacks": [{ "url": "https://github.com/heroku/heroku-buildpack-nodejs#latest" } ],
+    "env": {      
+      "PORT": {
+        "description": "Port for web app.4000,5000,3000... any!",
+        "value": "5000",
+        "required": true 
+      },
+      "MESSAGE": {
+        "description": "set session id conformation message",
+        "value": "╔════◇\n║ *『 HE-HE, THIS IS THE BEGINNING OF YOUR LEGENDARY EXPERIENCE WITH 𝙹𝙾𝚁𝙳𝙰𝙽-𝙹𝙾𝙴𝙻𝚂𝚃𝙰𝚁 🤖』*\n║ _You have Completed the first step to deploy a Whatsapp Bot._\n╚════════════════════════╝\n╔═════◇\n║  『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』\n║ *WA GROUP:* _https://chat.whatsapp.com/FARX1kClkJu1OZq9yvV7vB_\n║ *Owner:* _https://wa.me/2349054039891_\n║ ╚════════════════════════╝",
+        "required": false 
+      }
+    }   
+
+}
